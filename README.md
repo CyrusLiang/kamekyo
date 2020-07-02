@@ -12,3 +12,5 @@ See it live in action at <https://volny.github.io/creative-theme-jekyll/>
 - Start by adding your info in `_config.yml`
 - In `_layouts/front.html` reorder or remove section as you prefer.
 
+## Link to github page
+https://cyrusliang.github.io/kamekyo/
