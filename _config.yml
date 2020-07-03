@@ -1,7 +1,7 @@
 # Site settings
 title: Kamekyo
-email: kamekyo943@gmail.com
-description: This website contains our full menu and more information about our restaurant > # this means to ignore newlines until "baseurl:"
+email:
+description: Our updated menu > # this means to ignore newlines until "baseurl:"
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "" # the base hostname & protocol for your site
 
