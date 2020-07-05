@@ -350,9 +350,12 @@ body {
 }
 
 // Custom
-.menu {
-    text-transform: uppercase;
-}
 section {
     padding-bottom: 0;
+}
+section:nth-child(even) {
+    background: #eee;
+}
+.menu {
+    text-transform: uppercase;
 }
