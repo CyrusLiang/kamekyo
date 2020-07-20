@@ -22,5 +22,21 @@ $(document).ready(function(){
     document.getElementById("htofu").innerHTML = "$9";
 
     // Salads
-    
+    document.getElementById("gomaae").innerHTML = "$9.50";
+    document.getElementById("ohitashi").innerHTML = "$9.50";
+    document.getElementById("tsukemono").innerHTML = "$7.50";
+    document.getElementById("poke").innerHTML = "$15.50";
+    document.getElementById("sunomono").innerHTML = "$10.50";
+    document.getElementById("houses").innerHTML = "$9.50";
+    document.getElementById("seaweed").innerHTML = "$8.50";
+    document.getElementById("sobas").innerHTML = "$10.50";
+    document.getElementById("bean").innerHTML = "$8.50";
+    document.getElementById("cucumber").innerHTML = "$9";
+
+    // Sides
+    document.getElementById("miso").innerHTML = "$3.50";
+    document.getElementById("asari").innerHTML = "$8.50";
+    document.getElementById("eda").innerHTML = "$7";
+    document.getElementById("rice").innerHTML = "$3";
+    document.getElementById("srice").innerHTML = "$3.50";
 })
