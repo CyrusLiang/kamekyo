@@ -1,6 +1,5 @@
 /*!
  * Displays menu prices
-    document.getElementById("").innerHTML = "$";
  */
 $(document).ready(function(){
     // Appetizers
@@ -39,4 +38,24 @@ $(document).ready(function(){
     document.getElementById("eda").innerHTML = "$7";
     document.getElementById("rice").innerHTML = "$3";
     document.getElementById("srice").innerHTML = "$3.50";
+
+    // Entrees
+    document.getElementById("salteri").innerHTML = "$";
+    document.getElementById("sabteri").innerHTML = "$";
+    document.getElementById("chiteri").innerHTML = "$";
+    document.getElementById("beefteri").innerHTML = "$";
+    document.getElementById("svteri").innerHTML = "$";
+    document.getElementById("tonkatsu").innerHTML = "$";
+    document.getElementById("chikatsu").innerHTML = "$";
+    document.getElementById("gpork").innerHTML = "$";
+    document.getElementById("gsnap").innerHTML = "$";
+    document.getElementById("misoyakie").innerHTML = "$";
+    document.getElementById("sizzveg").innerHTML = "$";
+    document.getElementById("svtempe").innerHTML = "$";
+    document.getElementById("stempe").innerHTML = "$";
+    document.getElementById("vtempe").innerHTML = "$";
+    document.getElementById("kakifrye").innerHTML = "$";
 })
+/*
+document.getElementById("").innerHTML = "$";
+*/
