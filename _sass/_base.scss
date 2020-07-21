@@ -359,18 +359,11 @@ section:nth-child(even) {
 .menu {
     text-transform: uppercase;
 }
+.container {
+    width: unset;
+}
 .food-box .text-muted {
     margin-bottom: 0;
-}
-@media (min-width: 992px) {
-    .container {
-        width: unset;
-    }
-}
-@media (min-width: 768px) {
-    .container {
-        width: unset;
-    }
 }
 @media only screen and (min-width: 768px) {
     .food-box {
