@@ -40,21 +40,26 @@ $(document).ready(function(){
     document.getElementById("srice").innerHTML = "$3.50";
 
     // Entrees
-    document.getElementById("salteri").innerHTML = "$";
-    document.getElementById("sabteri").innerHTML = "$";
-    document.getElementById("chiteri").innerHTML = "$";
-    document.getElementById("beefteri").innerHTML = "$";
-    document.getElementById("svteri").innerHTML = "$";
-    document.getElementById("tonkatsu").innerHTML = "$";
-    document.getElementById("chikatsu").innerHTML = "$";
-    document.getElementById("gpork").innerHTML = "$";
-    document.getElementById("gsnap").innerHTML = "$";
-    document.getElementById("misoyakie").innerHTML = "$";
-    document.getElementById("sizzveg").innerHTML = "$";
-    document.getElementById("svtempe").innerHTML = "$";
-    document.getElementById("stempe").innerHTML = "$";
-    document.getElementById("vtempe").innerHTML = "$";
-    document.getElementById("kakifrye").innerHTML = "$";
+    document.getElementById("salteri").innerHTML = "$22";
+    document.getElementById("sabteri").innerHTML = "$19";
+    document.getElementById("chiteri").innerHTML = "$19.50";
+    document.getElementById("beefteri").innerHTML = "$27";
+    document.getElementById("svteri").innerHTML = "$27";
+    document.getElementById("tonkatsu").innerHTML = "$19.50";
+    document.getElementById("chikatsu").innerHTML = "$19.50";
+    document.getElementById("gpork").innerHTML = "$19.50";
+    document.getElementById("gsnap").innerHTML = "$19.50";
+    document.getElementById("misoyakie").innerHTML = "$27";
+    document.getElementById("sizzveg").innerHTML = "$16";
+    document.getElementById("svtempe").innerHTML = "$23.50";
+    document.getElementById("stempe").innerHTML = "$21.50";
+    document.getElementById("vtempe").innerHTML = "$18";
+    document.getElementById("kakifrye").innerHTML = "$19.50";
+    document.getElementById("unagid").innerHTML = "$25";
+    document.getElementById("terid").innerHTML = "$18.50";
+    document.getElementById("tempd").innerHTML = "$17.50";
+    document.getElementById("oyako").innerHTML = "$17";
+    document.getElementById("tonkatsud").innerHTML = "$18";
 })
 /*
 document.getElementById("").innerHTML = "$";
