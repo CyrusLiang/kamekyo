@@ -369,4 +369,8 @@ section:nth-child(even) {
     .food-box {
         min-height: 133px;
     }
+    .bento-box {
+        min-height: unset;
+        margin-bottom: 20px;
+    }
 }
