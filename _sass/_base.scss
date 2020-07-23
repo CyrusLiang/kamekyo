@@ -365,12 +365,14 @@ section:nth-child(even) {
 .food-box .text-muted {
     margin-bottom: 0;
 }
+.bento-box {
+    margin-bottom: 20px;
+}
 @media only screen and (min-width: 768px) {
     .food-box {
         min-height: 133px;
     }
     .bento-box {
         min-height: unset;
-        margin-bottom: 20px;
     }
 }
