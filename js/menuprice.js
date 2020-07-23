@@ -60,6 +60,13 @@ $(document).ready(function(){
     document.getElementById("tempd").innerHTML = "$17.50";
     document.getElementById("oyako").innerHTML = "$17";
     document.getElementById("tonkatsud").innerHTML = "$18";
+
+    // Entrees
+    document.getElementById("skushi").innerHTML = "$26";
+    document.getElementById("yosen").innerHTML = "$27";
+    document.getElementById("suki").innerHTML = "$28";
+    document.getElementById("sesame").innerHTML = "$20";
+    document.getElementById("kclay").innerHTML = "$27";
 })
 /*
 document.getElementById("").innerHTML = "$";
