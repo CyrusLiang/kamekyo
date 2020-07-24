@@ -157,7 +157,7 @@ $(document).ready(function(){
     document.getElementById("kappa").innerHTML = "$6.75";
     document.getElementById("natto").innerHTML = "6.75";
     document.getElementById("newyork").innerHTML = "$8";
-    document.getElementById("negihamma").innerHTML = "$8";
+    document.getElementById("negihama").innerHTML = "$8";
     document.getElementById("oshinko").innerHTML = "$6.75";
     document.getElementById("rocknroll").innerHTML = "$8.25";
     document.getElementById("sakem").innerHTML = "$8";
