@@ -137,12 +137,12 @@ $(document).ready(function(){
     document.getElementById("tamago").innerHTML = "$5.50";
     document.getElementById("uni").innerHTML = "$14";
     document.getElementById("shotate").innerHTML = "$7";
-    document.getElementById("ankimo").innerHTML = "$";
-    document.getElementById("toro").innerHTML = "$";
-    document.getElementById("bigeye").innerHTML = "$";
-    document.getElementById("king").innerHTML = "$";
-    document.getElementById("sbelly").innerHTML = "$";
-    document.getElementById("abelly").innerHTML = "$";
+    document.getElementById("ankimo").innerHTML = "$8";
+    document.getElementById("toro").innerHTML = "$18";
+    document.getElementById("bigeye").innerHTML = "$10";
+    document.getElementById("king").innerHTML = "$9";
+    document.getElementById("sbelly").innerHTML = "$8.50";
+    document.getElementById("abelly").innerHTML = "$9";
 })
 /*
 document.getElementById("").innerHTML = "$";
