@@ -368,9 +368,6 @@ section:nth-child(even) {
 .bento-box {
     margin-bottom: 15px;
 }
-.maki-box {
-    min-height: 135px;
-}
 @media only screen and (min-width: 768px) {
     .food-box {
         min-height: 110px;
@@ -378,5 +375,8 @@ section:nth-child(even) {
     }
     .bento-box {
         min-height: unset;
+    }
+    .maki-box {
+        min-height: 135px;
     }
 }
