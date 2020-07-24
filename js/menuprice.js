@@ -175,7 +175,24 @@ $(document).ready(function(){
     document.getElementById("vtroll").innerHTML = "$8";
     document.getElementById("umeshiso").innerHTML = "$6.75";
     document.getElementById("lobster").innerHTML = "$14.50";
+
+    // Beverages
+    document.getElementById("sanpell").innerHTML = "$4.50";
+    document.getElementById("kerns").innerHTML = "$4.50";
+    document.getElementById("ramune").innerHTML = "$4.50";
+    document.getElementById("calpico").innerHTML = "$4.50";
+    document.getElementById("soda").innerHTML = "$3.25";
+    document.getElementById("icedt").innerHTML = "$4";
+    document.getElementById("thait").innerHTML = "$4.50";
+    document.getElementById("mangofloat").innerHTML = "$7";
+
+    // Desserts
+    document.getElementById("icecream").innerHTML = "$7.50";
+    document.getElementById("friedb").innerHTML = "$8";
+    document.getElementById("friedic").innerHTML = "$8";
+    document.getElementById("mochi").innerHTML = "$5.50";
 })
 /*
-document.getElementById("").innerHTML = "$";
+";
+document.getElementById("").innerHTML = "$
 */
