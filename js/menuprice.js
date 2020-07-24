@@ -61,12 +61,28 @@ $(document).ready(function(){
     document.getElementById("oyako").innerHTML = "$17";
     document.getElementById("tonkatsud").innerHTML = "$18";
 
-    // Entrees
+    // Kitchen Specials
     document.getElementById("skushi").innerHTML = "$26";
     document.getElementById("yosen").innerHTML = "$27";
     document.getElementById("suki").innerHTML = "$28";
     document.getElementById("sesame").innerHTML = "$20";
     document.getElementById("kclay").innerHTML = "$27";
+
+    // Noodles
+    document.getElementById("chicku").innerHTML = "$17";
+    document.getElementById("beefu").innerHTML = "$18";
+    document.getElementById("kameu").innerHTML = "$16.50";
+    document.getElementById("seafu").innerHTML = "$20";
+    document.getElementById("svtempu").innerHTML = "$18";
+    document.getElementById("tempu").innerHTML = "$18";
+    document.getElementById("vegu").innerHTML = "$16";
+    document.getElementById("kitsune").innerHTML = "$15.50";
+    document.getElementById("nabe").innerHTML = "$24.50";
+    document.getElementById("yasai").innerHTML = "$15.50";
+    document.getElementById("zaru").innerHTML = "$15.50";
+    document.getElementById("tzsoba").innerHTML = "$20";
+    document.getElementById("pudon").innerHTML = "$8";
+    document.getElementById("psoba").innerHTML = "$9";
 })
 /*
 document.getElementById("").innerHTML = "$";
