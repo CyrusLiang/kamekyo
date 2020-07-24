@@ -83,6 +83,18 @@ $(document).ready(function(){
     document.getElementById("tzsoba").innerHTML = "$20";
     document.getElementById("pudon").innerHTML = "$8";
     document.getElementById("psoba").innerHTML = "$9";
+
+    // Sushibar Specials
+    document.getElementById("hsroll").innerHTML = "$19.50";
+    document.getElementById("strain").innerHTML = "$19.50";
+    document.getElementById("harain").innerHTML = "$19.50";
+    document.getElementById("kdrag").innerHTML = "$19.50";
+    document.getElementById("dyna").innerHTML = "$14";
+    document.getElementById("niners").innerHTML = "$18.50";
+    document.getElementById("sushim").innerHTML = "$27";
+    document.getElementById("tekkad").innerHTML = "$27";
+    document.getElementById("chirashi").innerHTML = "$27";
+    document.getElementById("sscombo").innerHTML = "$50";
 })
 /*
 document.getElementById("").innerHTML = "$";
