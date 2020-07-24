@@ -10,9 +10,9 @@ $(document).ready(function(){
     document.getElementById("hkama").innerHTML = "$17";
     document.getElementById("ckushi").innerHTML = "$12";
     document.getElementById("karaage").innerHTML = "$9";
-    document.getElementById("svtempura").prepend("$12.50");
-    document.getElementById("stempura").prepend("$11");
-    document.getElementById("vtempura").prepend("$10");
+    document.getElementById("svtempura").append("$12.50");
+    document.getElementById("stempura").append("$11");
+    document.getElementById("vtempura").append("$10");
     document.getElementById("sscrab").innerHTML = "$12.50";
     document.getElementById("korokke").innerHTML = "$8.50";
     document.getElementById("kakifry").innerHTML = "$10.50";
