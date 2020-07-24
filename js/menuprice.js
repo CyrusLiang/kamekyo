@@ -143,6 +143,38 @@ $(document).ready(function(){
     document.getElementById("king").innerHTML = "$9";
     document.getElementById("sbelly").innerHTML = "$8.50";
     document.getElementById("abelly").innerHTML = "$9";
+
+    // Maki
+    document.getElementById("negitoro").innerHTML = "$18";
+    document.getElementById("alaska").innerHTML = "$8";
+    document.getElementById("avocado").innerHTML = "$6.75";
+    document.getElementById("cali").innerHTML = "$9";
+    document.getElementById("futom").innerHTML = "$9.50";
+    document.getElementById("garisaba").innerHTML = "$8";
+    document.getElementById("gobo").innerHTML = "$6.75";
+    document.getElementById("horenso").innerHTML = "$6.75";
+    document.getElementById("kanpyo").innerHTML = "$6.75";
+    document.getElementById("kappa").innerHTML = "$6.75";
+    document.getElementById("natto").innerHTML = "6.75";
+    document.getElementById("newyork").innerHTML = "$8";
+    document.getElementById("negihamma").innerHTML = "$8";
+    document.getElementById("oshinko").innerHTML = "$6.75";
+    document.getElementById("rocknroll").innerHTML = "$8.25";
+    document.getElementById("sakem").innerHTML = "$8";
+    document.getElementById("sskin").innerHTML = "$8.25";
+    document.getElementById("stroll").innerHTML = "$8.50";
+    document.getElementById("shiitake").innerHTML = "$8.25";
+    document.getElementById("stuna").innerHTML = "$8.50";
+    document.getElementById("shama").innerHTML = "$8.50";
+    document.getElementById("spider").innerHTML = "$14";
+    document.getElementById("tekka").innerHTML = "$8";
+    document.getElementById("tunad").innerHTML = "$8.50";
+    document.getElementById("hamachid").innerHTML = "$8.50";
+    document.getElementById("vegd").innerHTML = "$8";
+    document.getElementById("unakyu").innerHTML = "$8.25";
+    document.getElementById("vtroll").innerHTML = "$8";
+    document.getElementById("umeshiso").innerHTML = "$6.75";
+    document.getElementById("lobster").innerHTML = "$14.50";
 })
 /*
 document.getElementById("").innerHTML = "$";
