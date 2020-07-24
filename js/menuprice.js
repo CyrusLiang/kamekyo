@@ -111,6 +111,38 @@ $(document).ready(function(){
     document.getElementById("sashimis").innerHTML = "$21";
     document.getElementById("sashimim").innerHTML = "$31.50";
     document.getElementById("sashimil").innerHTML = "$43.50";
+
+    // Nigiri
+    document.getElementById("maguro").innerHTML = "$7.50";
+    document.getElementById("hamachi").innerHTML = "$7.50";
+    document.getElementById("sake").innerHTML = "$6.50";
+    document.getElementById("unagi").innerHTML = "$6.75";
+    document.getElementById("aji").innerHTML = "$7";
+    document.getElementById("amaebi").innerHTML = "$10";
+    document.getElementById("anago").innerHTML = "$6.75";
+    document.getElementById("ebi").innerHTML = "$6.50";
+    document.getElementById("hirame").innerHTML = "$7.25";
+    document.getElementById("kanpachi").innerHTML = "$7.50";
+    document.getElementById("hotate").innerHTML = "$6.75";
+    document.getElementById("ika").innerHTML = "$6.50";
+    document.getElementById("ikura").innerHTML = "$7";
+    document.getElementById("kani").innerHTML = "$7.50";
+    document.getElementById("katsuo").innerHTML = "$6.75";
+    document.getElementById("mirugai").innerHTML = "$11";
+    document.getElementById("saba").innerHTML = "$6.50";
+    document.getElementById("shiro").innerHTML = "$6.50";
+    document.getElementById("tai").innerHTML = "$7";
+    document.getElementById("tako").innerHTML = "$6.75";
+    document.getElementById("tobiko").innerHTML = "$6.50";
+    document.getElementById("tamago").innerHTML = "$5.50";
+    document.getElementById("uni").innerHTML = "$14";
+    document.getElementById("shotate").innerHTML = "$7";
+    document.getElementById("ankimo").innerHTML = "$";
+    document.getElementById("toro").innerHTML = "$";
+    document.getElementById("bigeye").innerHTML = "$";
+    document.getElementById("king").innerHTML = "$";
+    document.getElementById("sbelly").innerHTML = "$";
+    document.getElementById("abelly").innerHTML = "$";
 })
 /*
 document.getElementById("").innerHTML = "$";
