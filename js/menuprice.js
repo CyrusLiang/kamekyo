@@ -96,6 +96,21 @@ $(document).ready(function(){
     document.getElementById("chirashi").innerHTML = "$27";
     document.getElementById("sushim").innerHTML = "$27";
     document.getElementById("sscombo").innerHTML = "$50";
+
+    // Sushibar Specials
+    document.getElementById("maguros").innerHTML = "$17";
+    document.getElementById("magurol").innerHTML = "$29.50";
+    document.getElementById("hamachis").innerHTML = "$17";
+    document.getElementById("hamachil").innerHTML = "$29.50";
+    document.getElementById("sakes").innerHTML = "$16.50";
+    document.getElementById("sakel").innerHTML = "$29";
+    document.getElementById("albacores").innerHTML = "$16.50";
+    document.getElementById("albacorel").innerHTML = "$29";
+    document.getElementById("ankimos").innerHTML = "$16.50";
+    document.getElementById("ankimol").innerHTML = "$29";
+    document.getElementById("sashimis").innerHTML = "$21";
+    document.getElementById("sashimim").innerHTML = "$31.50";
+    document.getElementById("sashimil").innerHTML = "$43.50";
 })
 /*
 document.getElementById("").innerHTML = "$";
