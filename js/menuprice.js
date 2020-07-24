@@ -74,7 +74,8 @@ $(document).ready(function(){
     document.getElementById("kameu").innerHTML = "$16.50";
     document.getElementById("seafu").innerHTML = "$20";
     document.getElementById("svtempu").innerHTML = "$18";
-    document.getElementById("tempu").innerHTML = "$18";
+    document.getElementById("stempu").innerHTML = "$17";
+    document.getElementById("vtempu").innerHTML = "$17";
     document.getElementById("vegu").innerHTML = "$16";
     document.getElementById("kitsune").innerHTML = "$15.50";
     document.getElementById("nabe").innerHTML = "$24.50";
