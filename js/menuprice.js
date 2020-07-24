@@ -10,9 +10,9 @@ $(document).ready(function(){
     document.getElementById("hkama").innerHTML = "$17";
     document.getElementById("ckushi").innerHTML = "$12";
     document.getElementById("karaage").innerHTML = "$9";
-    document.getElementById("svtempura").innerHTML = "$12.50";
-    document.getElementById("stempura").innerHTML = "$11";
-    document.getElementById("vtempura").innerHTML = "$10";
+    document.getElementById("svtempura").prepend("$12.50");
+    document.getElementById("stempura").prepend("$11");
+    document.getElementById("vtempura").prepend("$10");
     document.getElementById("sscrab").innerHTML = "$12.50";
     document.getElementById("korokke").innerHTML = "$8.50";
     document.getElementById("kakifry").innerHTML = "$10.50";
@@ -91,9 +91,9 @@ $(document).ready(function(){
     document.getElementById("kdrag").innerHTML = "$19.50";
     document.getElementById("dyna").innerHTML = "$14";
     document.getElementById("niners").innerHTML = "$18.50";
-    document.getElementById("sushim").innerHTML = "$27";
     document.getElementById("tekkad").innerHTML = "$27";
     document.getElementById("chirashi").innerHTML = "$27";
+    document.getElementById("sushim").innerHTML = "$27";
     document.getElementById("sscombo").innerHTML = "$50";
 })
 /*
