@@ -121,14 +121,14 @@ $(document).ready(function(){
     document.getElementById("amaebi").innerHTML = "$10";
     document.getElementById("anago").innerHTML = "$6.75";
     document.getElementById("ebi").innerHTML = "$6.50";
-    document.getElementById("hirame").innerHTML = "$7.25";
+    document.getElementById("hirame").innerHTML = "Sold out";
     document.getElementById("kanpachi").innerHTML = "$7.50";
     document.getElementById("hotate").innerHTML = "$6.75";
     document.getElementById("ika").innerHTML = "$6.50";
     document.getElementById("ikura").innerHTML = "$7";
     document.getElementById("kani").innerHTML = "$7.50";
     document.getElementById("katsuo").innerHTML = "$6.75";
-    document.getElementById("mirugai").innerHTML = "$11";
+    document.getElementById("mirugai").innerHTML = "Sold out";
     document.getElementById("saba").innerHTML = "$6.50";
     document.getElementById("shiro").innerHTML = "$6.50";
     document.getElementById("tai").innerHTML = "$7";
