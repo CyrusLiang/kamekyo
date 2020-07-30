@@ -87,7 +87,7 @@ PLATFORMS
   x64-mingw32
 
 DEPENDENCIES
-  jekyll (~> 4.1)
+  jekyll (~> 4.1.1)
   jekyll-feed (~> 0.12)
   nokogiri
   rack (~> 2.0.1)
