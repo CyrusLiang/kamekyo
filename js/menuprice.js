@@ -1,5 +1,7 @@
-/*!
+/*
  * Displays menu prices
+ * Mark as sold out
+ ** "Sold out";//
  */
 $(document).ready(function(){
     // Appetizers
@@ -128,14 +130,14 @@ $(document).ready(function(){
     document.getElementById("ikura").innerHTML = "$7";
     document.getElementById("kani").innerHTML = "$7.50";
     document.getElementById("katsuo").innerHTML = "$6.75";
-    document.getElementById("mirugai").innerHTML = "Sold out";//"$11";
+    document.getElementById("mirugai").innerHTML = "$11";
     document.getElementById("saba").innerHTML = "$6.50";
     document.getElementById("shiro").innerHTML = "$6.50";
     document.getElementById("tai").innerHTML = "$7";
     document.getElementById("tako").innerHTML = "$6.75";
     document.getElementById("tobiko").innerHTML = "$6.50";
     document.getElementById("tamago").innerHTML = "$5.50";
-    document.getElementById("uni").innerHTML = "Sold out";//"$14";
+    document.getElementById("uni").innerHTML = "$14";
     document.getElementById("shotate").innerHTML = "$7";
     document.getElementById("ankimo").innerHTML = "$7";
     document.getElementById("toro").innerHTML = "$17";
