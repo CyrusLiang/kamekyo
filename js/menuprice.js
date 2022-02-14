@@ -79,13 +79,13 @@ $(document).ready(function(){
     document.getElementById("stempu").innerHTML = "$20";
     document.getElementById("vtempu").innerHTML = "$20";
     document.getElementById("vegu").innerHTML = "$16.50";
-    //document.getElementById("kitsune").innerHTML = "$15.50";
-    //document.getElementById("nabe").innerHTML = "$24.50";
-    //document.getElementById("yasai").innerHTML = "$15.50";
-    //document.getElementById("zaru").innerHTML = "$15.50";
-    //document.getElementById("tzsoba").innerHTML = "$20";
-    //document.getElementById("pudon").innerHTML = "$8";
-    //document.getElementById("psoba").innerHTML = "$9";
+    document.getElementById("kitsune").innerHTML = "$18";
+    document.getElementById("nabe").innerHTML = "$28";
+    document.getElementById("yasai").innerHTML = "$18";
+    document.getElementById("zaru").innerHTML = "$18";
+    document.getElementById("tzsoba").innerHTML = "$22.50";
+    document.getElementById("pudon").innerHTML = "$9";
+    document.getElementById("psoba").innerHTML = "$10";
 
     // Sushibar Specials
     document.getElementById("hsroll").innerHTML = "$21";
@@ -141,7 +141,7 @@ $(document).ready(function(){
     document.getElementById("shotate").innerHTML = "$7.50";
     document.getElementById("ankimo").innerHTML = "$7.50";
     document.getElementById("toro").innerHTML = "$17.50";
-    //document.getElementById("bigeye").innerHTML = "$8.50";
+    document.getElementById("bigeye").innerHTML = "$9";
     document.getElementById("king").innerHTML = "$9";
     document.getElementById("sbelly").innerHTML = "$8.50";
     document.getElementById("abelly").innerHTML = "$8.50";
@@ -162,7 +162,7 @@ $(document).ready(function(){
     document.getElementById("newyork").innerHTML = "$8.50";
     document.getElementById("negihama").innerHTML = "$8.50";
     document.getElementById("oshinko").innerHTML = "$7.50";
-    //document.getElementById("philly").innerHTML = "$9";
+    document.getElementById("philly").innerHTML = "$9.50";
     document.getElementById("rocknroll").innerHTML = "$9.25";
     document.getElementById("sakem").innerHTML = "$8.50";
     document.getElementById("sskin").innerHTML = "$9.25";
