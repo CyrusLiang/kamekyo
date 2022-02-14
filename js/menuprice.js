@@ -58,10 +58,10 @@ $(document).ready(function(){
     document.getElementById("vtempe").innerHTML = "$21";
     document.getElementById("kakifrye").innerHTML = "$23";
     document.getElementById("unagid").innerHTML = "$27";
-    //document.getElementById("terid").innerHTML = "$18.50";
-    //document.getElementById("tempd").innerHTML = "$17.50";
-    //document.getElementById("oyako").innerHTML = "$17";
-    //document.getElementById("tonkatsud").innerHTML = "$18";
+    document.getElementById("terid").innerHTML = "$20.50";
+    document.getElementById("tempd").innerHTML = "$19.50";
+    document.getElementById("oyako").innerHTML = "$19";
+    document.getElementById("tonkatsud").innerHTML = "$20.50";
 
     // Kitchen Specials
     document.getElementById("skushi").innerHTML = "$28";
@@ -78,7 +78,7 @@ $(document).ready(function(){
     document.getElementById("svtempu").innerHTML = "$21";
     document.getElementById("stempu").innerHTML = "$20";
     document.getElementById("vtempu").innerHTML = "$20";
-    //document.getElementById("vegu").innerHTML = "$15";
+    document.getElementById("vegu").innerHTML = "$16.50";
     //document.getElementById("kitsune").innerHTML = "$15.50";
     //document.getElementById("nabe").innerHTML = "$24.50";
     //document.getElementById("yasai").innerHTML = "$15.50";
@@ -142,7 +142,7 @@ $(document).ready(function(){
     document.getElementById("ankimo").innerHTML = "$7.50";
     document.getElementById("toro").innerHTML = "$17.50";
     //document.getElementById("bigeye").innerHTML = "$8.50";
-    //document.getElementById("king").innerHTML = "$9";
+    document.getElementById("king").innerHTML = "$9";
     document.getElementById("sbelly").innerHTML = "$8.50";
     document.getElementById("abelly").innerHTML = "$8.50";
 
@@ -150,7 +150,7 @@ $(document).ready(function(){
     document.getElementById("negitoro").innerHTML = "$17.50";
     document.getElementById("alaska").innerHTML = "$8.50";
     document.getElementById("avocado").innerHTML = "$7.50";
-    //document.getElementById("avokyu").innerHTML = "$8";
+    document.getElementById("avokyu").innerHTML = "$8.50";
     document.getElementById("cali").innerHTML = "$10";
     document.getElementById("futom").innerHTML = "$11";
     document.getElementById("garisaba").innerHTML = "$8.50";
@@ -178,7 +178,7 @@ $(document).ready(function(){
     document.getElementById("unakyu").innerHTML = "$9.25";
     document.getElementById("vtroll").innerHTML = "$8.50";
     document.getElementById("umeshiso").innerHTML = "$7.50";
-    //document.getElementById("lobster").innerHTML = "$10";
+    document.getElementById("lobster").innerHTML = "$10";
 
     // Beverages
     document.getElementById("sanpell").innerHTML = "$4.50";
